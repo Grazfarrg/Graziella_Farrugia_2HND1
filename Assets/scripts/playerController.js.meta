@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 44628bc49c15a1144b04d6dff1c07174
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gun: {fileID: 5400000, guid: 279f2e9498792b54eb98227de7a73fce, type: 2}
+  - granade: {fileID: 5400000, guid: 002a45aec050c844f8dc77d2ce1edc87, type: 2}
+  - star: {fileID: 5400000, guid: a6715e606163acf4586ca3d72beeeb19, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
